@@ -17,8 +17,3 @@ I'm Lennart, currently studying Computer Science at [RWTH Aachen University](htt
 - Usable, user-friendly interface design (UI/UX)
 - REST APIs
 - Agile project management
-
-## Hiring
-I am currently looking for a job with a workload of at most 10 hours per week, ideally remote or in the Aachen region. With 2 years of real live working experience (mostly automation using PowerShell) and 2 years of academic education, I love learning new technologies and building new ones.
-
-If you think, I might be a fit, reach out!
