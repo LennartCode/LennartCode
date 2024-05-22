@@ -1,19 +1,31 @@
+# LennartCode
+
 Hi 👋
 
 I'm Lennart, currently studying Computer Science at [RWTH Aachen University](https://www.rwth-aachen.de/) in Germany and looking to graduate in 2024. I consider myself a member of the [Effective Altruism Community](https://www.effectivealtruism.org/) so if you have a project you could need some help with, feel free to reach out!
 
-## My favourite technologies:
-- [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/) for automation
-- [C#](https://learn.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/) for object-oriented code
-- [SQL](https://wikipedia.org/wiki/SQL) for talking to databases
-- [Dart](https://dart.dev/) with [Flutter](https://flutter.dev/) for cross platform front end development
+## My Favourite Technologies
 
-## Topics I am interested in:
+- [Dart](https://dart.dev/) with [Flutter](https://flutter.dev/) for cross-platform front-end development
+- [Rust](https://www.rust-lang.org) for rewriting everything
+- [Cypher](https://neo4j.com/product/cypher-graph-query-language/) for talking to [Neo4J](https://neo4j.com) graph databases
+- [SQL](https://wikipedia.org/wiki/SQL) for talking to relational databases, especially [PostgreSQL](https://www.postgresql.org)
+- [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/) for automation
+- [Docker](https://www.docker.com) for containerisation
+- [Markdown](https://daringfireball.net/projects/markdown/) for any text
+
+## Topics I Am Interested in
+
 - Software Engineering
+- Full-stack development
 - Data privacy
-- Agile project management
-- REST APIs
-- Automatic speech recognition
-- Graph databases, especially using SPARQL
-- Automation
+- Not-only-REST APIs
+- Graph databases
 - Usable, user-friendly interface design (UI/UX)
+- Agile project management
+- Automation
+
+## Things I Don’t Like
+
+- Python
+- XML
